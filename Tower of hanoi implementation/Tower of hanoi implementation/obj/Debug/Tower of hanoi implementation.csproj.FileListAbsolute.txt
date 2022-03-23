@@ -1,0 +1,10 @@
+D:\projects\Faculty\Tower of Hanoi AIproject22\Tower of hanoi implementation\Tower of hanoi implementation\bin\Debug\Tower of hanoi implementation.exe.config
+D:\projects\Faculty\Tower of Hanoi AIproject22\Tower of hanoi implementation\Tower of hanoi implementation\bin\Debug\Tower of hanoi implementation.exe
+D:\projects\Faculty\Tower of Hanoi AIproject22\Tower of hanoi implementation\Tower of hanoi implementation\bin\Debug\Tower of hanoi implementation.pdb
+D:\projects\Faculty\Tower of Hanoi AIproject22\Tower of hanoi implementation\Tower of hanoi implementation\obj\Debug\Tower of hanoi implementation.csproj.AssemblyReference.cache
+D:\projects\Faculty\Tower of Hanoi AIproject22\Tower of hanoi implementation\Tower of hanoi implementation\obj\Debug\Tower_of_hanoi_implementation.Form1.resources
+D:\projects\Faculty\Tower of Hanoi AIproject22\Tower of hanoi implementation\Tower of hanoi implementation\obj\Debug\Tower_of_hanoi_implementation.Properties.Resources.resources
+D:\projects\Faculty\Tower of Hanoi AIproject22\Tower of hanoi implementation\Tower of hanoi implementation\obj\Debug\Tower of hanoi implementation.csproj.GenerateResource.cache
+D:\projects\Faculty\Tower of Hanoi AIproject22\Tower of hanoi implementation\Tower of hanoi implementation\obj\Debug\Tower of hanoi implementation.csproj.CoreCompileInputs.cache
+D:\projects\Faculty\Tower of Hanoi AIproject22\Tower of hanoi implementation\Tower of hanoi implementation\obj\Debug\Tower of hanoi implementation.exe
+D:\projects\Faculty\Tower of Hanoi AIproject22\Tower of hanoi implementation\Tower of hanoi implementation\obj\Debug\Tower of hanoi implementation.pdb
